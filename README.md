@@ -34,7 +34,7 @@ Our MCP server includes several useful tools powered by free APIs:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/universal-mcp.git
+   git clone https://github.com/affanrasheed/universal-mcp.git
    cd universal-mcp
    ```
 
