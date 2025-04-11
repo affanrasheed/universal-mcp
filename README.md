@@ -165,20 +165,12 @@ universal-mcp/
 ├── README.md                 # Main documentation
 ├── requirements.txt          # Python dependencies
 ├── setup.py                  # Package installation script
-├── run_ui.py                 # Script to start the web UI
-├── 
 ├── client/                   # Client implementation
 │   ├── __init__.py           # Package initialization
 │   ├── client.py             # Universal MCP client supporting multiple LLMs
-│
 ├── server/                   # Server implementation
 │   ├── __init__.py           # Package initialization
 │   ├── server.py             # MCP server with various tools
-│
-├── ui/                       # User interface
-│   ├── __init__.py           # Package initialization
-│   ├── app.py                # Streamlit web UI
-│
 └── examples/                 # Example code
     └── basic_usage.py        # Basic usage examples
 ```
